@@ -1,0 +1,60 @@
+{
+  "node": {
+    "40e0294e05261dd6706fd823407cb45d146f165eb9": {
+      "workers": {
+        "app/report-incident/page": {
+          "moduleId": "[project]/.next-internal/server/app/report-incident/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-incident-report.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/report-incident/page": "action-browser"
+      }
+    },
+    "4037f29f02d18f3c3fe995fbdcbdde84240a652ffa": {
+      "workers": {
+        "app/report-incident/page": {
+          "moduleId": "[project]/.next-internal/server/app/report-incident/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-incident-report.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/report-incident/page": "action-browser"
+      }
+    },
+    "40b9d00183ae81c705ae3c2833aa70d5c65662448c": {
+      "workers": {
+        "app/report-incident/page": {
+          "moduleId": "[project]/.next-internal/server/app/report-incident/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-incident-report.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/report-incident/page": "action-browser"
+      }
+    },
+    "603d691f6a2d8afc25d950676f09476be54bcf8a08": {
+      "workers": {
+        "app/report-incident/page": {
+          "moduleId": "[project]/.next-internal/server/app/report-incident/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-incident-report.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/report-incident/page": "action-browser"
+      }
+    },
+    "405bbe91130606ed9b9d33a6350719f17e88c55e52": {
+      "workers": {
+        "app/report-incident/page": {
+          "moduleId": "[project]/.next-internal/server/app/report-incident/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-incident-report.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/report-incident/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

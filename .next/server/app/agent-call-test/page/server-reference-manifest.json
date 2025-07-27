@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40b9d00183ae81c705ae3c2833aa70d5c65662448c": {
+      "workers": {
+        "app/agent-call-test/page": {
+          "moduleId": "[project]/.next-internal/server/app/agent-call-test/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/initiate-agent-call-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/agent-call-test/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

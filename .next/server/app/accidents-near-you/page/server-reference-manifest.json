@@ -1,0 +1,16 @@
+{
+  "node": {
+    "0036f4f9175b9166298ecf81f230471c932f9b8d35": {
+      "workers": {
+        "app/accidents-near-you/page": {
+          "moduleId": "[project]/.next-internal/server/app/accidents-near-you/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/accidents-near-you/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

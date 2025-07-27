@@ -1,0 +1,16 @@
+{
+  "node": {
+    "605cbf05e86f322eb27252f0ea04058a36f7906985": {
+      "workers": {
+        "app/air-quality/page": {
+          "moduleId": "[project]/.next-internal/server/app/air-quality/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/air-quality-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/air-quality/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

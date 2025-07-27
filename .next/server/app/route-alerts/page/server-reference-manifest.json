@@ -1,0 +1,71 @@
+{
+  "node": {
+    "0036f4f9175b9166298ecf81f230471c932f9b8d35": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    },
+    "4072c9be27302b19f5423814dd95b4bd259d9e1837": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    },
+    "40e2e3b5fceeb54cd86f33dbf817153adeb8a6e950": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    },
+    "605c475562d35e360b80be5744d708475ce6db66b6": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    },
+    "603d691f6a2d8afc25d950676f09476be54bcf8a08": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    },
+    "405bbe91130606ed9b9d33a6350719f17e88c55e52": {
+      "workers": {
+        "app/route-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/route-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-route-alert-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/text-to-speech-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/lib/directions-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/lib/places-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/route-alerts/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

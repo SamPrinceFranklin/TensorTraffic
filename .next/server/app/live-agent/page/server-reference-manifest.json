@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40345ca53538fa85c76ef155f22942baa3aeea00ea": {
+      "workers": {
+        "app/live-agent/page": {
+          "moduleId": "[project]/.next-internal/server/app/live-agent/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/live-incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/live-agent/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

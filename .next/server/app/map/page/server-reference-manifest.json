@@ -1,0 +1,60 @@
+{
+  "node": {
+    "406e87a03cdd69895ed4546ea4111b24a11e2a4a51": {
+      "workers": {
+        "app/map/page": {
+          "moduleId": "[project]/.next-internal/server/app/map/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/summarize-incidents-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/map/page": "action-browser"
+      }
+    },
+    "0036f4f9175b9166298ecf81f230471c932f9b8d35": {
+      "workers": {
+        "app/map/page": {
+          "moduleId": "[project]/.next-internal/server/app/map/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/summarize-incidents-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/map/page": "action-browser"
+      }
+    },
+    "4088d2c626fb7a5820303d3d2c566c8d4145e56a81": {
+      "workers": {
+        "app/map/page": {
+          "moduleId": "[project]/.next-internal/server/app/map/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/summarize-incidents-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/map/page": "action-browser"
+      }
+    },
+    "605443fde625e763e9e9ee7b8e24f33ec252b364c3": {
+      "workers": {
+        "app/map/page": {
+          "moduleId": "[project]/.next-internal/server/app/map/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/summarize-incidents-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/map/page": "action-browser"
+      }
+    },
+    "40299a1b256e6f3800db9b67c83f7cdb07d45ce1b8": {
+      "workers": {
+        "app/map/page": {
+          "moduleId": "[project]/.next-internal/server/app/map/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/summarize-incidents-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/map/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,27 @@
+{
+  "node": {
+    "0036f4f9175b9166298ecf81f230471c932f9b8d35": {
+      "workers": {
+        "app/analytics/page": {
+          "moduleId": "[project]/.next-internal/server/app/analytics/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/summarize-trends-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/analytics/page": "action-browser"
+      }
+    },
+    "40a715ffbb3029c51286a51df46a05a31b2e314cef": {
+      "workers": {
+        "app/analytics/page": {
+          "moduleId": "[project]/.next-internal/server/app/analytics/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/summarize-trends-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/analytics/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

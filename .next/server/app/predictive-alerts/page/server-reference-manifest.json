@@ -1,0 +1,38 @@
+{
+  "node": {
+    "0036f4f9175b9166298ecf81f230471c932f9b8d35": {
+      "workers": {
+        "app/predictive-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/predictive-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/predictive-analysis-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/analyze-single-incident-impact-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/predictive-alerts/page": "action-browser"
+      }
+    },
+    "404094d1f402f57d4183b95e994be01e62ad220411": {
+      "workers": {
+        "app/predictive-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/predictive-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/predictive-analysis-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/analyze-single-incident-impact-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/predictive-alerts/page": "action-browser"
+      }
+    },
+    "4062f7b07950f3c210dda940016877e842e1eb31fe": {
+      "workers": {
+        "app/predictive-alerts/page": {
+          "moduleId": "[project]/.next-internal/server/app/predictive-alerts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/incidents-service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/predictive-analysis-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/analyze-single-incident-impact-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/predictive-alerts/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

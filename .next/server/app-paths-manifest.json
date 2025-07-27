@@ -1,0 +1,10 @@
+{
+  "/accidents-near-you/page": "app/accidents-near-you/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/live-agent/page": "app/live-agent/page.js",
+  "/page": "app/page.js",
+  "/parental-alerts/page": "app/parental-alerts/page.js",
+  "/predictive-alerts/page": "app/predictive-alerts/page.js",
+  "/route-alerts/page": "app/route-alerts/page.js"
+}
